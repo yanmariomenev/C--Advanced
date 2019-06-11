@@ -1,4 +1,4 @@
-# C#-Advanced -C#-April 2019 - August 2019
+# C#-Advanced - April 2019 - August 2019
 
 1. STACKS AND QUEUES
 

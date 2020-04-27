@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Socks", "01.Socks\01.Socks.csproj", "{F729660A-E5D6-4B25-839F-4F4D7B44E103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ExxcelFunctions", "02.ExxcelFunctions\02.ExxcelFunctions.csproj", "{21385BDA-E0A2-4F62-9FD5-75BACEBA70C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F729660A-E5D6-4B25-839F-4F4D7B44E103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F729660A-E5D6-4B25-839F-4F4D7B44E103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F729660A-E5D6-4B25-839F-4F4D7B44E103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F729660A-E5D6-4B25-839F-4F4D7B44E103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21385BDA-E0A2-4F62-9FD5-75BACEBA70C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21385BDA-E0A2-4F62-9FD5-75BACEBA70C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21385BDA-E0A2-4F62-9FD5-75BACEBA70C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21385BDA-E0A2-4F62-9FD5-75BACEBA70C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {019079A6-0C74-43E5-AA0A-AE514A51B4C9}
+	EndGlobalSection
+EndGlobal
